@@ -1,25 +1,25 @@
 {
   "logs": [
     {
-      "id": 1,
-      "message": "Changed hard drive on workstation 005",
-      "attention": false,
-      "date": "01-20-2018",
-      "tech": "Sara Wilson"
-    },
-    {
-      "id": 2,
-      "message": "Workstation 007 not posting",
+      "message": "Hard Drive Failed in test 002",
       "attention": true,
-      "date": "02-03-2019",
-      "tech": "John Doe"
+      "tech": "Sara Wilson",
+      "date": "2019-11-18T21:14:58.130Z",
+      "id": 1
     },
     {
-      "id": 3,
-      "message": "Changed memory on workstation 050",
+      "message": "1122 Wireless down",
       "attention": false,
-      "date": "03-02-2019",
-      "tech": "Sam Smith"
+      "tech": "John Doe",
+      "date": "2019-11-18T21:15:09.456Z",
+      "id": 2
+    },
+    {
+      "message": "Another test 12345",
+      "attention": false,
+      "tech": "Sam Smith",
+      "date": "2019-11-18T21:15:18.694Z",
+      "id": 3
     }
   ],
   "techs": [
