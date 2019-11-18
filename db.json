@@ -1,11 +1,11 @@
 {
   "logs": [
     {
+      "id": 1,
       "message": "Hard Drive Failed in test 002",
       "attention": true,
       "tech": "Sara Wilson",
-      "date": "2019-11-18T21:14:58.130Z",
-      "id": 1
+      "date": "2019-11-18T22:22:26.139Z"
     },
     {
       "message": "1122 Wireless down",
