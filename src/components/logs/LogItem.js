@@ -16,7 +16,7 @@ const LogItem = ({ log }) => {
         <span className="grey-text">
           <span className="black-text">ID: #{log.id}</span> Last Updated by{" "}
           <span className="black-text">{log.tech}</span> on{" "}
-          <Moment parse="MM-DD-YYYYTHH:mm:ss" format="MMMM Do YYYY, hh:mm:ss a">
+          <Moment format="MMMM Do YYYY, hh:mm:ss a">
             {log.date}
           </Moment>
         </span>
