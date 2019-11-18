@@ -13,13 +13,6 @@
       "tech": "John Doe",
       "date": "2019-11-18T21:15:09.456Z",
       "id": 2
-    },
-    {
-      "message": "Another test 12345",
-      "attention": false,
-      "tech": "Sam Smith",
-      "date": "2019-11-18T21:15:18.694Z",
-      "id": 3
     }
   ],
   "techs": [
