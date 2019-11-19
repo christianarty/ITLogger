@@ -4,7 +4,7 @@ import PropTypes from "prop-types";
 import { addTech } from "../../actions/techActions";
 import M from "materialize-css/dist/js/materialize.min.js";
 
-const AddTechModal = ({ addTech }) => {
+const AddTechModal = ({ addTech, deleteTech }) => {
   const [firstName, setFirstName] = useState("");
   const [lastName, setLastName] = useState("");
 
